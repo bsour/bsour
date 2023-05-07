@@ -67,3 +67,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=bsour&theme=onedark)](https://github.com/bsour/github-profile-trophy)
 
 ---
+### 😆: Jokes Corner : 
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
