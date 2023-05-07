@@ -19,7 +19,7 @@
 ---
 
 ### :man_technologist: About Me : I am a software developer from the land down under :kangaroo:.
-- :telescope: I’m changing careers and currently a student at Holberton School for software engineering. I am also pursuing my masters in Computer Science from Monash University Australia, specialising in Software engineering.
+- :telescope: I’m changing careers and currently a student at Holberton School for software engineering.
 
 - :telescope: I am also pursuing my masters in Computer Science from Monash University Australia, specialising in Software engineering.
 
