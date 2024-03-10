@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bsour" alt="bsour" /></a> </p>
 
-- 🔭 I’m currently working on [Tulip Dating App](https://github.com/bsour/tulip-FE)
+- 🔭 I have built my own dating app with a twist [Tulip Dating App](https://github.com/bsour/tulip-FE)
 
-- 🌱 I’m currently learning **NextJs, TypeScript**
+- 🌱 I’m currently learning **NextJs, TypeScript, Python** 
 
-- 📝 I regularly write articles on [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
+- 📝 I'm completing my masters in CS at Monash University focusing on AI
 
 - 💬 Ask me about **react, Tailwind**
 
