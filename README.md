@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sourabh Beniwal</h1>
 <h3 align="center">Full-stack developer Career Changer- Ex ER Nurse</h3>
 
-[![Alt Text](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=ujILCaT4COA)
+<div align="center"> <a href="https://www.youtube.com/watch?v=ujILCaT4COA" target="_blank"> <img src="https://img.youtube.com/vi/ujILCaT4COA/0.jpg" alt="Full Stack Development Journey" width="480" height="360" border="10" /> </a> </div>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bsour&label=Profile%20views&color=0e75b6&style=flat" alt="bsour" /> </p>
