@@ -33,6 +33,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/bsour/bsour/output/github-contribution-grid-snake-dark.svg />
+![Snake animation](https://raw.githubusercontent.com/bsour/bsour/output/github-contribution-grid-snake-dark.svg)
 
 ###
