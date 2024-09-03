@@ -1,94 +1,100 @@
-<h1 align="center">👨‍💻 Sourabh Beniwal</h1>
-<h3 align="center">Full Stack Developer | Software Engineer | Ex-ER Nurse</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sourabhbeniwal1/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://meetsourabh.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:sourabhbeniwal@outlook.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bsour&label=Profile%20views&color=0e75b6&style=flat" alt="bsour" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sourabh%20Beniwal&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+</div>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=ujILCaT4COA" target="_blank">
-    <img src="https://img.youtube.com/vi/ujILCaT4COA/0.jpg" alt="Full Stack Development Journey" width="480" height="360" border="10" />
+  <h2>👨‍💻 Full Stack Developer | 🏥 Ex-ER Nurse | 🚀 Tech Enthusiast</h2>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sourabhbeniwal1/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://meetsourabh.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:sourabhbeniwal@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
-## 🚀 About Me
+<br />
 
-Dedicated Full Stack Developer with a unique background in emergency healthcare, now applying problem-solving skills and attention to detail in creating efficient, user-centric web applications. Committed to continuous learning and staying at the forefront of web technologies.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bsour&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
 
-## 🔧 Technologies & Tools
+<br />
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
-
-## 🌟 Featured Projects
-
-<details>
-<summary>Barayamal Chrome Extensions</summary>
-<br>
-📅 April 2024 - May 2024<br>
-🛠 Chrome DevTools, HTML5, CSS3, JavaScript<br>
-🔑 Key Features:
-<ul>
-  <li>Developed Chrome extensions promoting First Nations culture</li>
-  <li>Implemented dynamic content updates</li>
-  <li>Focused on user engagement and cultural awareness</li>
-</ul>
-</details>
-
-<details>
-<summary>Tulip - Dating Application</summary>
-<br>
-📅 October 2023 - November 2023<br>
-🛠 MongoDB, Express.js, React, Node.js<br>
-🔑 Key Features:
-<ul>
-  <li>Built a full-stack MERN dating platform</li>
-  <li>Implemented secure authentication and real-time messaging</li>
-  <li>Designed intuitive user interface for seamless experience</li>
-</ul>
-</details>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bsour&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bsour&theme=radical" alt="GitHub Streak" />
-</p>
-
-## 🌱 Current Focus
-
-- 🔭 Enhancing service delivery and incident management at the Department of Defence
-- 🌱 Deepening expertise in Next.js and TypeScript
-- 👯 Open to collaborations on AI, TypeScript, and Web Design projects
-- 🤝 Seeking networking opportunities in the software engineering field
-
-## 💬 Let's Connect
-
-I'm always excited to discuss new technologies, share ideas, or collaborate on interesting projects. Feel free to reach out!
-
-<p align="center">
-  <a href="https://github.com/bsour/bsour/issues/new?template=collaboration-request.md">
-    <img src="https://img.shields.io/badge/-Request%20to%20Collaborate-blue?style=for-the-badge&logo=github" alt="Request to Collaborate" />
+<div align="center">
+  <h2>🎬 My Coding Journey</h2>
+  <a href="https://www.youtube.com/watch?v=ujILCaT4COA" target="_blank">
+    <img src="https://img.youtube.com/vi/ujILCaT4COA/0.jpg" alt="Full Stack Development Journey" width="480" height="360" style="border-radius: 10px;" />
   </a>
-</p>
+</div>
 
----
+<br />
 
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
-</p>
+<div align="center">
+  <h2>🛠️ Tech Toolbox</h2>
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,typescript,nextjs,python,mongodb,postgresql,docker,aws&perline=5" />
+</div>
+
+<br />
+
+<div align="center">
+  <h2>🌟 Spotlight Projects</h2>
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>Barayamal Chrome Extensions</h3>
+      <p>Promoting First Nations culture through interactive browser add-ons</p>
+      <img src="https://img.shields.io/badge/Chrome-Extensions-4285F4?style=flat-square&logo=google-chrome&logoColor=white" />
+    </td>
+    <td align="center">
+      <h3>Tulip - Dating Application</h3>
+      <p>MERN stack app revolutionizing online connections</p>
+      <img src="https://img.shields.io/badge/MERN-Stack-61DAFB?style=flat-square&logo=react&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<div align="center">
+  <h2>🌱 Growing & Learning</h2>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>🔍 Enhancing Defence tech</td>
+      <td>📚 Mastering Next.js & TypeScript</td>
+    </tr>
+    <tr>
+      <td>🤝 Open to AI & Web Design collabs</td>
+      <td>🌐 Expanding my tech network</td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+<div align="center">
+  <h2>💬 Let's Create Something Amazing</h2>
+  <p>Got an idea? Want to collaborate? Just want to chat about tech? I'm all ears!</p>
+  <a href="https://github.com/bsour/bsour/issues/new?template=collaboration-request.md">
+    <img src="https://img.shields.io/badge/Let's_Team_Up!-2ea44f?style=for-the-badge" alt="Let's Team Up!" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
