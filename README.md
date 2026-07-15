@@ -2,7 +2,7 @@
   <img src="assets/banner.svg" alt="sourabh@melbourne — software engineer" width="720" />
 </p>
 
-Software engineer building **agentic AI** solutions and internal developer tooling in Python and JavaScript. Architecture, CI/CD, cloud deployment, and automation that speeds teams up — in high-security government environments.
+Software engineer building **agentic AI** solutions and internal developer tooling in Python and JavaScript. Architecture, CI/CD, cloud deployment, and automation that speeds teams up.
 
 ```bash
 $ cat recently.md
